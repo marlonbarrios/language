@@ -1,4 +1,3 @@
-# language
 
 Language is never neutral : it names, classifies, and can also oppress. It has been one of coloniality’s main instruments, imposing categories of race, gender, and culture that hierarchize and subordinate. Through it, hegemonic narratives are legitimized, deciding which voices count and which are silenced.
 
