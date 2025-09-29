@@ -16,3 +16,6 @@ Here, language becomes a sensitive interface : it not only communicates but also
 With the emergence of **Large Language Models (LLMs)** and the ongoing **cognitive media revolution**, language now unfolds within machinic ecologies that learn, predict, and generate meaning at planetary scale. These systems both inherit and amplify the **epistemic tensions** of their datasets — they can reproduce colonial hierarchies of sense, but they can also become tools to **amplify marginalized voices**, **translate plural epistemologies**, and **speculate new grammars of relation**.
 
 From a **decolonial perspective**, engaging with LLMs means questioning not only what they say, but **how they know** — tracing their genealogies of data, power, and desire. In **Pangea**, this engagement becomes an experiment in **critical co-authorship**: reprogramming language as a **living territory**, where human and machine cognition intersect to weave **pluriversal narratives** that resist reduction and imagine other worlds.
+
+<a href="https://github.com/marlonbarrios/list_of_applications_UI/blob/mondrian/README.md#list_of_applications_ui" target="_blank">Apps and interfaces of Pangea in Latent Space The Tectonics of Otherness</a>
+
